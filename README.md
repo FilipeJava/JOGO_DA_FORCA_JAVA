@@ -9,5 +9,5 @@ Trata-se de um projeto simples que tem objetivo a aprendizagem dos conceitos:
 
 
 Trata-se da versão 1.0 
--Projeto Futuro é aplicar os Conceitos de SOLID para melhor o código .
+
 
